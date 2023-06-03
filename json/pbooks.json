@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "CENTRAL PARK WEST",
+    "ratings": "4.9",
+    "Author": "James Comey",
+    "image": "assets/books/newbook1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "DESERVING REESE",
+    "ratings": "4.7",
+    "Author": "Susan Stoker",
+    "image": "assets/books/newbook2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "THE CELEBRANTS",
+    "ratings": "4.4",
+    "Author": "Steven Rowley",
+    "image": "assets/books/newbook3.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "CHERISH",
+    "ratings": "4.8",
+    "Author": "Tracy Wolff",
+    "image": "assets/books/newbook4.jpeg"
+  }
+]

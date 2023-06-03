@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "PROBLEM SOLVING",
+    "ratings": "4.6",
+    "Author": "Matthew Mckay Ph.D",
+    "image": "assets/books/book1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "BLINK AND OUTLIERS",
+    "ratings": "4.7",
+    "Author": "Malcolm Gladwell",
+    "image": "assets/books/book2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "BLINK",
+    "ratings": "4.4",
+    "Author": "Malcolm Gladwell",
+    "image": "assets/books/book3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "TOO GOOD TO BE TRUE",
+    "ratings": "4.8",
+    "Author": "Erin Arvedlund",
+    "image": "assets/books/book4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "WORLD IN CRISES",
+    "ratings": "4.9",
+    "Author": "Gabriel Kolko",
+    "image": "assets/books/book5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "SAPIENS",
+    "ratings": "4.5",
+    "Author": "Yuval Noah Harari",
+    "image": "assets/books/image6.png"
+  },
+  {
+    "id": 7,
+    "name": "THINKING, FAST AND SLOW",
+    "ratings": "4.6",
+    "Author": "Daniel Kahneman",
+    "image": "assets/books/image7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "THE ALCHEMIST",
+    "ratings": "4.8",
+    "Author": "Paulo Coelho",
+    "image": "assets/books/image8.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "THE POWER OF HABIT",
+    "ratings": "4.7",
+    "Author": "Charles Duhigg",
+    "image": "assets/books/image9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "TO KILL A MOCKINGBIRD",
+    "ratings": "4.5",
+    "Author": "Harper Lee",
+    "image": "assets/books/image10.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "THE GREAT GATSBY",
+    "ratings": "4.4",
+    "Author": "F. Scott Fitzgerald",
+    "image": "assets/books/image11.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "1984",
+    "ratings": "4.7",
+    "Author": "George Orwell",
+    "image": "assets/books/image12.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "BRAVE NEW WORLD",
+    "ratings": "4.6",
+    "Author": "Aldous Huxley",
+    "image": "assets/books/image13.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "THE LORD OF THE RINGS",
+    "ratings": "4.9",
+    "Author": "J.R.R. Tolkien",
+    "image": "assets/books/image14.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "HARRY & STONE",
+    "ratings": "4.8",
+    "Author": "J.K. Rowling",
+    "image": "assets/books/image15.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "THE CATCHER IN THE RYE",
+    "ratings": "4.3",
+    "Author": "J.D. Salinger",
+    "image": "assets/books/image16.jpeg"
+  },
+  {
+    "id": 17,
+    "name": "TO THE LIGHTHOUSE",
+    "ratings": "4.2",
+    "Author": "Virginia Woolf",
+    "image": "assets/books/image17.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "PRIDE AND PREJUDICE",
+    "ratings": "4.7",
+    "Author": "Jane Austen",
+    "image": "assets/books/image18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "100 YEARS OF SOLITUDE",
+    "ratings": "4.9",
+    "Author": "Gabriel García Márquez",
+    "image": "assets/books/image19.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "MIDDLEMARCH",
+    "ratings": "4.4",
+    "Author": "George Eliot",
+    "image": "assets/books/image20.jpg"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "IT STARTS WITH US",
+    "ratings": "4.9",
+    "Author": "Coleen Hoover",
+    "image": "assets/books/pbook1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "VARIETY",
+    "ratings": "4.7",
+    "Author": "Coleen Hoover",
+    "image": "assets/books/pbook2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "FOURTH WING",
+    "ratings": "4.5",
+    "Author": "Rebecca Yarros",
+    "image": "assets/books/pbook3.jpeg"
+  }
+]
